@@ -22,5 +22,11 @@
   "bugs": {
     "url": "https://github.com/djmarvels/ironov-ui/issues"
   },
-  "homepage": "https://github.com/djmarvels/ironov-ui#readme"
+  "homepage": "https://github.com/djmarvels/ironov-ui#readme",
+  "devDependencies": {
+    "@nuxt/types": "^2.13.2"
+  },
+  "dependencies": {
+    "nuxt": "^2.14.5"
+  }
 }
