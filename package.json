@@ -1,0 +1,26 @@
+{
+  "name": "ironov-ui",
+  "version": "1.0.0",
+  "description": "ironov ui styles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djmarvels/ironov-ui.git"
+  },
+  "keywords": [
+    "ironov",
+    "ui",
+    "kit",
+    "styles",
+    "type"
+  ],
+  "author": "Valery Lisavets",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/djmarvels/ironov-ui/issues"
+  },
+  "homepage": "https://github.com/djmarvels/ironov-ui#readme"
+}
